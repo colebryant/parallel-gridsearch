@@ -1,0 +1,290 @@
+Best SVM classifier training accuracy: 0.738611
+Using parameters: 
+    kernel: rbf
+    C: 0.100000
+    gamma: 1.000000
+Best SVM classifier training accuracy: 0.738611
+Using parameters: 
+    kernel: rbf
+    C: 0.100000
+    gamma: 1.000000
+Best SVM classifier training accuracy: 0.738611
+Using parameters: 
+    kernel: rbf
+    C: 0.100000
+    gamma: 1.000000
+Best SVM classifier training accuracy: 0.922778
+Using parameters: 
+    kernel: poly
+    C: 0.001000
+    gamma: 0.100000
+Best SVM classifier training accuracy: 0.922778
+Using parameters: 
+    kernel: poly
+    C: 0.001000
+    gamma: 0.100000
+Best SVM classifier training accuracy: 0.922778
+Using parameters: 
+    kernel: poly
+    C: 0.001000
+    gamma: 0.100000
+Best SVM classifier training accuracy: 0.922778
+Using parameters: 
+    kernel: poly
+    C: 0.001000
+    gamma: 0.100000
+Best SVM classifier training accuracy: 0.922778
+Using parameters: 
+    kernel: poly
+    C: 0.001000
+    gamma: 0.100000
+Best SVM classifier training accuracy: 0.922778
+Using parameters: 
+    kernel: poly
+    C: 0.001000
+    gamma: 0.100000
+Best SVM classifier training accuracy: 0.738611
+Using parameters: 
+    kernel: rbf
+    C: 0.100000
+    gamma: 1.000000
+Best SVM classifier training accuracy: 0.738611
+Using parameters: 
+    kernel: rbf
+    C: 0.100000
+    gamma: 1.000000
+Best SVM classifier training accuracy: 0.738611
+Using parameters: 
+    kernel: rbf
+    C: 0.100000
+    gamma: 1.000000
+Best SVM classifier training accuracy: 0.738611
+Using parameters: 
+    kernel: rbf
+    C: 0.100000
+    gamma: 1.000000
+Best SVM classifier training accuracy: 0.738611
+Using parameters: 
+    kernel: rbf
+    C: 0.100000
+    gamma: 1.000000
+Best SVM classifier training accuracy: 0.738611
+Using parameters: 
+    kernel: rbf
+    C: 0.100000
+    gamma: 1.000000
+Best SVM classifier training accuracy: 0.738611
+Using parameters: 
+    kernel: rbf
+    C: 0.100000
+    gamma: 1.000000
+Best SVM classifier training accuracy: 0.738611
+Using parameters: 
+    kernel: rbf
+    C: 0.100000
+    gamma: 1.000000
+Best SVM classifier training accuracy: 0.738611
+Using parameters: 
+    kernel: rbf
+    C: 0.100000
+    gamma: 1.000000
+Best SVM classifier training accuracy: 0.738611
+Using parameters: 
+    kernel: rbf
+    C: 0.100000
+    gamma: 1.000000
+Best SVM classifier training accuracy: 0.738611
+Using parameters: 
+    kernel: rbf
+    C: 0.100000
+    gamma: 1.000000
+Best SVM classifier training accuracy: 0.738611
+Using parameters: 
+    kernel: rbf
+    C: 0.100000
+    gamma: 1.000000
+Best SVM classifier training accuracy: 0.738611
+Using parameters: 
+    kernel: rbf
+    C: 0.100000
+    gamma: 1.000000
+Best SVM classifier training accuracy: 0.738611
+Using parameters: 
+    kernel: rbf
+    C: 0.100000
+    gamma: 1.000000
+Best SVM classifier training accuracy: 0.738611
+Using parameters: 
+    kernel: rbf
+    C: 0.100000
+    gamma: 1.000000
+Best SVM classifier training accuracy: 0.922778
+Using parameters: 
+    kernel: poly
+    C: 0.001000
+    gamma: 0.100000
+Best SVM classifier training accuracy: 0.922778
+Using parameters: 
+    kernel: poly
+    C: 0.001000
+    gamma: 0.100000
+Best SVM classifier training accuracy: 0.922778
+Using parameters: 
+    kernel: poly
+    C: 0.001000
+    gamma: 0.100000
+Best SVM classifier training accuracy: 0.922778
+Using parameters: 
+    kernel: poly
+    C: 0.001000
+    gamma: 0.100000
+Best SVM classifier training accuracy: 0.922778
+Using parameters: 
+    kernel: poly
+    C: 0.001000
+    gamma: 0.100000
+Best SVM classifier training accuracy: 0.922778
+Using parameters: 
+    kernel: poly
+    C: 0.001000
+    gamma: 0.100000
+Best SVM classifier training accuracy: 0.922778
+Using parameters: 
+    kernel: poly
+    C: 0.001000
+    gamma: 0.100000
+Best SVM classifier training accuracy: 0.922778
+Using parameters: 
+    kernel: poly
+    C: 0.001000
+    gamma: 0.100000
+Best SVM classifier training accuracy: 0.922778
+Using parameters: 
+    kernel: poly
+    C: 0.001000
+    gamma: 0.100000
+Best SVM classifier training accuracy: 0.922778
+Using parameters: 
+    kernel: poly
+    C: 0.001000
+    gamma: 0.100000
+Best SVM classifier training accuracy: 0.922778
+Using parameters: 
+    kernel: poly
+    C: 0.001000
+    gamma: 0.100000
+Best SVM classifier training accuracy: 0.922778
+Using parameters: 
+    kernel: poly
+    C: 0.001000
+    gamma: 0.100000
+Best SVM classifier training accuracy: 0.922778
+Using parameters: 
+    kernel: poly
+    C: 0.001000
+    gamma: 0.100000
+Best SVM classifier training accuracy: 0.922778
+Using parameters: 
+    kernel: poly
+    C: 0.001000
+    gamma: 0.100000
+Best SVM classifier training accuracy: 0.922778
+Using parameters: 
+    kernel: poly
+    C: 0.001000
+    gamma: 0.100000
+Best SVM classifier training accuracy: 0.922778
+Using parameters: 
+    kernel: poly
+    C: 0.001000
+    gamma: 0.100000
+Best SVM classifier training accuracy: 0.922778
+Using parameters: 
+    kernel: poly
+    C: 0.001000
+    gamma: 0.100000
+Best SVM classifier training accuracy: 0.922778
+Using parameters: 
+    kernel: poly
+    C: 0.001000
+    gamma: 0.100000
+Best SVM classifier training accuracy: 0.922778
+Using parameters: 
+    kernel: poly
+    C: 0.001000
+    gamma: 0.100000
+Best SVM classifier training accuracy: 0.922778
+Using parameters: 
+    kernel: poly
+    C: 0.001000
+    gamma: 0.100000
+Best SVM classifier training accuracy: 0.922778
+Using parameters: 
+    kernel: poly
+    C: 0.001000
+    gamma: 0.100000
+Best SVM classifier training accuracy: 0.922778
+Using parameters: 
+    kernel: poly
+    C: 0.001000
+    gamma: 0.100000
+Best SVM classifier training accuracy: 0.922778
+Using parameters: 
+    kernel: poly
+    C: 0.001000
+    gamma: 0.100000
+Best SVM classifier training accuracy: 0.922778
+Using parameters: 
+    kernel: poly
+    C: 0.001000
+    gamma: 0.100000
+Best SVM classifier training accuracy: 0.922778
+Using parameters: 
+    kernel: poly
+    C: 0.001000
+    gamma: 0.100000
+Best SVM classifier training accuracy: 0.922778
+Using parameters: 
+    kernel: poly
+    C: 0.001000
+    gamma: 0.100000
+Best SVM classifier training accuracy: 0.922778
+Using parameters: 
+    kernel: poly
+    C: 0.001000
+    gamma: 0.100000
+Best SVM classifier training accuracy: 0.922778
+Using parameters: 
+    kernel: poly
+    C: 0.001000
+    gamma: 0.100000
+Best SVM classifier training accuracy: 0.922778
+Using parameters: 
+    kernel: poly
+    C: 0.001000
+    gamma: 0.100000
+Best SVM classifier training accuracy: 0.922778
+Using parameters: 
+    kernel: poly
+    C: 0.001000
+    gamma: 0.100000
+====sequential====
+Average sequential time on small: 287.91505153973895
+Average sequential time on medium: 409.0490992863973
+Average sequential time on large: 575.9786469936371
+====parallel====
+Average parallel time on small with 2 threads: 120.6628183523814
+Average parallel time on small with 4 threads: 64.28946717580159
+Average parallel time on small with 6 threads: 50.15536546707153
+Average parallel time on small with 8 threads: 64.51787726084392
+Average parallel time on small with 12 threads: 43.274718840916954
+Average parallel time on medium with 2 threads: 177.32240549723306
+Average parallel time on medium with 4 threads: 115.76375222206116
+Average parallel time on medium with 6 threads: 88.17038949330647
+Average parallel time on medium with 8 threads: 76.89726034800212
+Average parallel time on medium with 12 threads: 70.139213403066
+Average parallel time on large with 2 threads: 252.38918805122375
+Average parallel time on large with 4 threads: 148.02114009857178
+Average parallel time on large with 6 threads: 118.07949995994568
+Average parallel time on large with 8 threads: 102.9179265499115
+Average parallel time on large with 12 threads: 97.92785739898682
