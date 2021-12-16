@@ -9,3 +9,5 @@
     * threads = the number of threads (optional, will run parallel version)
   * To run the program sequentially, simply run without the `[threads]` parameter
   * When completed, the program will print out the best parameters and associated training accuracy
+
+<img src="benchmark/graphs/parallel-speedup.png" width="600"/>
