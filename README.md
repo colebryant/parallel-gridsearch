@@ -1,4 +1,4 @@
-# README
+# Parallel Hyperparameter Gridsearch
 * Please ensure that Pandas, NumPy, and Scikit-Learn are installed in the Python environment. The program will not run without these libraries installed
 * I am using a heavily downsampled (balanced) version of the mnist dataset, with 3600 entries. This is for the sake of speed, especially since we are performing cross-validation on the model. The dataset is called mnist_resampled.csv and is stored in the gridsearch/data directory
 * To run:
